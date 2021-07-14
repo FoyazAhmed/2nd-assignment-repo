@@ -60,8 +60,6 @@ li{
 /*----------------------
  header bottom area start
  ----------------------- */
-
-
 .header-right-area img{
 max-height: 438px;
 max-width: 556px;
@@ -76,7 +74,6 @@ margin-right: 50px;
     justify-content: space-between;
     padding-bottom: 100px;
 }
-
 .header-left{
     padding-top: 100px;
     padding-left: 50px;
@@ -118,9 +115,6 @@ margin-right: 50px;
 /*----------------------
         players area
  ----------------------- */
-
-
-
 .players-area{
      display: grid;
     justify-content: center;
